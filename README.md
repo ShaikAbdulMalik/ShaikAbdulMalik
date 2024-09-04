@@ -1,3 +1,5 @@
 <hi align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Shaik+Abdul+Malik;This+is+my+github;"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Shaik+Abdul+Malik;This+is+my+github;"/>
 </h1>
+
+<h3>
