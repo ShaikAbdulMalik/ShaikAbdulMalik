@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI,+This+is+Shaik Abdul Malik;And+This+is+my github profile)](https://git.io/typing-svg)
+<hi align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Shaik+Abdul+Malik;This+is+my+github;"/>
+    <>
+/h1
